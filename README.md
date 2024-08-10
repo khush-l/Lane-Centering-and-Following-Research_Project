@@ -29,7 +29,10 @@ The goal of this project was to create algorithms that enable autonomous vehicle
 
 The lane-following system demonstrated effective real-time lane detection and accurate lane centering in multiple test scenarios. The speed remained constant at the goal of .5 m/s and the steering was smooth. 
 
-[Final Run Video](link-to-your-video)
+
+https://github.com/user-attachments/assets/6f4770e0-21a8-42ba-9487-064ca9e227e7
+
+
 
 ## Repository Contents
 
